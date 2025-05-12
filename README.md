@@ -48,4 +48,6 @@ for categorical columns SimpleImputer is used to fill the missing value using th
 
    using the package `ImPipeline` from Pipeline package which include preproccessing ,then smote this is used to handle the unbalanced data usind BorderlineSMOTE and using the classifier model XGBClassifier
 
-**step 5:** 
+**step 5:** Spiltind the dataset as train and test data, X is independent variable and Y is dependent variable
+
+**step 6:** Finding the performance evaluation metric , `Classification metrics` this provides precision, recall, f1-score, support for a classification problem
