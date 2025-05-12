@@ -51,6 +51,8 @@ for categorical columns SimpleImputer is used to fill the missing value using th
 
 **step 5:** Spiltind the dataset as train and test data, X is independent variable and Y is dependent variable
 
+Assigned X as the set of independent features and y as the target variable (subscription).
+
 **step 6:** Finding the performance evaluation metric , `Classification metrics` this provides precision, recall, f1-score, support for a classification problem
 
 
