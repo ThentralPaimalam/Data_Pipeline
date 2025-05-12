@@ -70,4 +70,4 @@ This end-to-end pipeline demonstrates a practical and efficient approach to proc
 
 
 ## Output:
-https://github.com/ThentralPaimalam/Data_Pipeline/issues/1#issue-3055988104
+![Image](https://github.com/user-attachments/assets/f0f05153-76e6-4395-98b9-775606dd4f35)
