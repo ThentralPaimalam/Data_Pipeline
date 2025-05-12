@@ -20,5 +20,12 @@ which contains details or atrritibute like (occupation, education, age, etc) to 
 
 About Environment:
 
+ In this project I ued jupyter notebook to do the ETL(Extract,Transform and Load) process and the analysis part
+ 
+Application of the project:
 
- In this project I ued jupyter notebook to do the ETL process and the analysis part
+This project helps to predict a person will purchase a term deposit product based on their attribute like job, age and so on
+
+Process Involved:
+ step 1: 
+ 
