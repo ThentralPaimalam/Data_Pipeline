@@ -26,6 +26,7 @@ Application of the project:
 
 This project helps to predict a person will purchase a term deposit product based on their attribute like job, age and so on
 
-Process Involved:
- step 1: 
+###Process Involved:
+
+ **step 1:** 
  
