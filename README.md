@@ -65,7 +65,7 @@ F1-score (harmonic mean of precision and recall)
 Support (number of true instances for each label)
 
 
-***Conclusion:***
+**Conclusion:**
 This end-to-end pipeline demonstrates a practical and efficient approach to processing marketing campaign data. By automating ETL tasks and using advanced techniques like SMOTE and XGBoost, the model can make reliable predictions, helping businesses make data-driven marketing decisions.
 
 
