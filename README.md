@@ -67,3 +67,7 @@ Support (number of true instances for each label)
 
 ***Conclusion:***
 This end-to-end pipeline demonstrates a practical and efficient approach to processing marketing campaign data. By automating ETL tasks and using advanced techniques like SMOTE and XGBoost, the model can make reliable predictions, helping businesses make data-driven marketing decisions.
+
+
+## Output:
+https://github.com/ThentralPaimalam/Data_Pipeline/issues/1#issue-3055988104
