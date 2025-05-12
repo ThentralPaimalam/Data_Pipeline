@@ -20,15 +20,16 @@ which contains details or atrritibute like (occupation, education, age, etc) to 
 
 ### About Environment:
 
- In this project I ued jupyter notebook to do the ETL(Extract,Transform and Load) process and the analysis part
+The project was developed using Jupyter Notebook, enabling interactive development and easy visualization. The environment allowed for a seamless ETL (Extract, Transform, Load) workflow along with data exploration, transformation, and model evaluation.
  
 ### Application of the project:
 
-This project helps to predict a person will purchase a term deposit product based on their attribute like job, age and so on
+This project helps to predict a person will purchase a term deposit product based on their attribute like job, age and so on.
 
 ### Process Involved:
 
 **step 1:** Reading the datset using Pandas read function 
+Inspected column names, data types, and basic statistics to understand the structure and quality of the data.
 
 **step 2:** Next data cleaning,checking for null values, eliminating the unnecessary features and seperating the numerical features and categorical features.
 
@@ -51,3 +52,16 @@ for categorical columns SimpleImputer is used to fill the missing value using th
 **step 5:** Spiltind the dataset as train and test data, X is independent variable and Y is dependent variable
 
 **step 6:** Finding the performance evaluation metric , `Classification metrics` this provides precision, recall, f1-score, support for a classification problem
+
+
+Precision (how many selected items are relevant)
+
+Recall (how many relevant items are selected)
+
+F1-score (harmonic mean of precision and recall)
+
+Support (number of true instances for each label)
+
+
+***Conclusion:***
+This end-to-end pipeline demonstrates a practical and efficient approach to processing marketing campaign data. By automating ETL tasks and using advanced techniques like SMOTE and XGBoost, the model can make reliable predictions, helping businesses make data-driven marketing decisions.
